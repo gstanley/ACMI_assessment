@@ -1,0 +1,5 @@
+-- list of mac addresses
+
+12:FF:54:AA:00:01
+45:AA:AB:78:12:00
+78:CC:BA:09:01:10
